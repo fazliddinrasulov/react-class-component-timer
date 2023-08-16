@@ -1,0 +1,19 @@
+article {
+  display: flex;
+  justify-content: center;
+}
+.timer {
+  background-color: rgb(8, 0, 15);
+  background-image: url("https://media.istockphoto.com/id/876474874/vector/hourglass-icon-from-lines-and-triangles-point-connecting-network-on-blue-background.jpg?s=612x612&w=0&k=20&c=I7CZenJxz8YxE52wUYgc37Rqkrh5nD9ARE38l49HW3A=");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 500px;
+  color: white;
+  font-size: 42px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-top: 40px;
+}
